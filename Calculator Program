@@ -1,3 +1,4 @@
+# Try to learn about calculator
 import java.util.Scanner;
 
 public class Main {
